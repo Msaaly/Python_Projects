@@ -1,0 +1,9 @@
+Cluster,Commodity #1,Share1,Commodity #2,Share2,Commodity #3,Share3
+0,Electrical machinery,0.5926317019061282,Machinery,0.08301050521217121,Optical instruments,0.062232864335717904
+1,Special classification provisions,0.6682599336792053,Pharmaceuticals,0.0633586433131947,Electrical machinery,0.029614296339653665
+2,Machinery,0.2744273750444014,Vehicles,0.13871652554477895,Electrical machinery,0.11428198747564432
+3,Mineral fuels,0.7269620357675455,Fertilizers,0.08258153068451096,Special classification provisions,0.03453972562030115
+4,Pharmaceuticals,0.5959950048192867,Special classification provisions,0.051913725434087385,Machinery,0.03986436635001714
+5,Precious stones,0.7473704678431573,Special classification provisions,0.03878382962689627,Art,0.028010519032036076
+6,Apparel (knit),0.07505754123601538,Optical instruments,0.07300448687379511,Precious stones,0.048703641741287544
+7,Special tariff provisions,1.0,Man-made staple fibers,0.0,Nickel,0.0
